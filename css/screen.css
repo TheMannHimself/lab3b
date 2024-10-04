@@ -207,6 +207,9 @@ label {
 
 
 /* ===== STATE STYLES ======= */
+body {
+   background-color:#444;
+}
 form {
    font-family: "Roboto Condensed", "Noto Sans", sans-serif;
    border-radius: 25px;
