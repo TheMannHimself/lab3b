@@ -202,15 +202,24 @@ label {
   display: block;
 }
 
-body {
-   background-color: #555;
-   font-family: 'Roboto Condensed', 'Open Sans', sans-serif;
-}
-form {
-   border-radius: 25px;
-   background: #666;
-}
+
 /* ===== LAYOUT STYLES ====== */
 
 
 /* ===== STATE STYLES ======= */
+form {
+   font-family: "Roboto Condensed", "Noto Sans", sans-serif;
+   border-radius: 25px;
+   background-color: #888;
+}
+
+
+
+
+
+
+
+
+
+
+
