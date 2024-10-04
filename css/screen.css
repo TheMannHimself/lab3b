@@ -241,7 +241,7 @@ input[type="email"] {
   justify-content: center;
 }
 #input-age-verification label{
-  margine-left: 5px;
+  margin-left: 5px;
 }
 input[type="submit"] {
   width: 50%;
