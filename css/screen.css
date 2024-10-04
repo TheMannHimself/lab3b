@@ -210,6 +210,7 @@ label {
 body {
    background-color:#444;
 }
+
 form {
    font-family: "Roboto Condensed", "Noto Sans", sans-serif;
    border-radius: 25px;
@@ -219,6 +220,12 @@ form {
    text-align: center;
 }
 
+h1 {
+  font-weight: bold;
+  padding: 10px;
+  font-size: 1.5rem;
+}
+   
 
 
 
