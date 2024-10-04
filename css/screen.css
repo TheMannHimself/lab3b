@@ -237,8 +237,26 @@ input[type="email"] {
 #input-age-verification {
   display: flex;
   padding: 10px;
+  align-items: center;
+  justify-content: center;
+}
+input[type="submit"] {
+  width: 50%;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #666;
+  color: #FFF;
 }
 
+input[value='Subscribe'] {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+input[value='Subscribe']:hover {
+  background-color: #555;
+}
 
 
 
