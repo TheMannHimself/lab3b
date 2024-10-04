@@ -245,7 +245,7 @@ input[type="submit"] {
   border: none;
   padding: 10px;
   border-radius: 10px;
-  background-color: #666;
+  background-color: #555;
   color: #FFF;
 }
 
@@ -255,7 +255,7 @@ input[value='Subscribe'] {
 }
 
 input[value='Subscribe']:hover {
-  background-color: #555;
+  background-color: #333;
 }
 
 
